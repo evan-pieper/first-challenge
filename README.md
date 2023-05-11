@@ -14,6 +14,8 @@ N/A
 
 This project is intentded as a mockup website to demonstrate my ability to work off of and improve existing code. Clicking the "Search Engine Optimization", "Online Reputation Management", and "Social Media Marketing" buttons on the top banner will navigate you directly to there corresponding sections.
 
+It is designed for desktops, so mobile users may experience unpleasant formating.
+
 ## Credits
 
 Credit to edX Boot Camps LLC for providing the starter code.
