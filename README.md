@@ -2,7 +2,7 @@
 
 ## Description
 
-![This screenshot shows the entire website's appearance](assets\images\evan-pieper.github.io_first-challenge_.png)
+![This screenshot shows the entire website's appearance](.\assets\images\evan-pieper.github.io_first-challenge_.png)
 
 This project was created in order to improve my coding skills. It contains code that has been refactored from starter code. This project is a mockup website refactored from starter code provided by edX bootcamp. It features a functional navigation bar, backhround images, logos, 3 sections of text, and a sidebar on the right side of the page.
 
